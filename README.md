@@ -1,2 +1,2 @@
-# LInuxServer
+# LinuxServer
 This  is my web application
